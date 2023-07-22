@@ -2,7 +2,6 @@ import uuid
 import json
 import time
 import requests
-import time
 import argparse
 
 
